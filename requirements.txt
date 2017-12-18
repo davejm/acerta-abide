@@ -2,5 +2,5 @@ pandas
 numpy
 docopt
 tensorflow-gpu
-sklearn
+scikit-learn
 scipy
