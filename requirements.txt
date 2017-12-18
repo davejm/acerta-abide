@@ -4,3 +4,4 @@ docopt
 tensorflow-gpu
 sklearn
 scipy
+tabulate
